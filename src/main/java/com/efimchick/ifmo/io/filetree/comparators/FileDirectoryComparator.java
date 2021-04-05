@@ -1,4 +1,4 @@
-package com.efimchick.ifmo.io.filetree;
+package com.efimchick.ifmo.io.filetree.comparators;
 
 import java.nio.file.Files;
 import java.nio.file.Path;

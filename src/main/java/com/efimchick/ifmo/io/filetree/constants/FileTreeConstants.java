@@ -1,4 +1,4 @@
-package com.efimchick.ifmo.io.filetree;
+package com.efimchick.ifmo.io.filetree.constants;
 
 public class FileTreeConstants {
     public static final String BYTES = "bytes";

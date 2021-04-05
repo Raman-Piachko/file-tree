@@ -1,4 +1,4 @@
-package com.efimchick.ifmo.io.filetree;
+package com.efimchick.ifmo.io.filetree.entity;
 
 import java.nio.file.Path;
 

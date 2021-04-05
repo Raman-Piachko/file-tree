@@ -1,4 +1,4 @@
-package com.efimchick.ifmo.io.filetree;
+package com.efimchick.ifmo.io.filetree.constants;
 
 public class GraphicConstants {
     public static final String CROSS = "├─ ";
